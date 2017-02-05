@@ -1,0 +1,27 @@
+{
+  "name": "node-algo",
+  "version": "1.0.0",
+  "description": "Implementing algorithms in Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanjeevMurthy/node-algo.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "Nodejs",
+    "Javascript"
+  ],
+  "author": "Sanjeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanjeevMurthy/node-algo/issues"
+  },
+  "homepage": "https://github.com/SanjeevMurthy/node-algo#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
